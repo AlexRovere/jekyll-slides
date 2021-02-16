@@ -2,7 +2,7 @@
 title: VENEZ ICI
 layout: post
 permalink: /why/
-background: '#096A80'
+background: '#0a5'
 
 slides:
  - title: Why use webjeda slides?
