@@ -1,8 +1,8 @@
 ---
-title: Why WebJeda Slides?
+title: VENEZ ICI
 layout: post
 permalink: /why/
-background: '#0a5'
+background: '#096A80'
 
 slides:
  - title: Why use webjeda slides?
