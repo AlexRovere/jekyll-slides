@@ -15,6 +15,10 @@ slides:
  - title: Is it free to use?
    slide-data: Absolutely. All credits should go to Hakim El Hattab for creating revealjs.
    background: '#e74c3c'
+
+ - title: Is it free to use?
+   slide-data: Absolutely. All credits should go to Hakim El Hattab for creating revealjs.
+   background: '#e74c3c'
 ---
 
 {% for slide in page.slides %}                 
