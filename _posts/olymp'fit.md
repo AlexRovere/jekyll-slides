@@ -1,7 +1,7 @@
 ---
-title: Demo
+title: test
 layout: post
-permalink: /demo/
+permalink: /test/
 ---
 
 <section>
