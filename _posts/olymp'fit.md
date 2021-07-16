@@ -1,0 +1,196 @@
+---
+title: Demo
+layout: post
+permalink: /demo/
+---
+
+<section>
+    <h1>Bienvenue sur notre présentation</h1>
+    <h3>Plan : </h3>
+    <ol>
+    <li>Explication du projet</li>
+    <li>Démonstration</li>
+    <li>Explication du code</li>
+    </ol>
+</section>
+
+<section>
+    <h2>Le projet</h2>
+    <p>
+        Création d'un site vitrine + back-office pour une ESN spécialisé dans l'agro-alimentaire 
+    </p>
+</section>
+
+<section>
+    <h2>User stories</h2>
+    <p>
+       <img height="550" data-src="{{ 'images/userstory.jpg' | relative_url }}">
+    </p>
+</section>
+
+<section>
+    <section>
+        <h2>Logiciels</h2>
+        <h3>Trello : </h3>
+        <p>
+            <img  data-src="{{ 'images/trello.jpg' | relative_url }}">
+        </p>
+    </section>
+    <section>
+        <h2>Logiciels</h2>
+        <h3>Figma: </h3>
+        <p>
+            <img height="500" width="500" data-src="{{ 'images/figma.jpg' | relative_url }}">
+        </p> 
+    </section>
+    <section>
+        <h2>Logiciels</h2>
+        <h3>Github: </h3>
+        <p>
+            <img data-src="{{ 'images/github.jpg' | relative_url }}">
+        </p> 
+    </section>
+</section>
+
+<section>
+    <h2>Démonstration</h2>
+    <p>
+        Presentations du site en fonctionnement 
+    </p>
+</section>
+
+<section>
+    <section id="fragments">
+        <h2>Le code</h2>
+        <p>Soyez patient</p>
+        <p class="fragment">... il arrive ...</p>
+        <p><span class="fragment">... à</span> <span class="fragment">point</span> <span class="fragment">nommé.</span></p>
+    </section>
+</section>
+
+<section>
+    <h2>PHP include</h2>
+    <img data-src="{{ 'images/footer.png' | relative_url }}">
+</section>
+
+<section>
+    <h2>Script js bouton caché</h2>
+    <img data-src="{{ 'images/scriptAcces.png' | relative_url }}">
+</section>
+
+<section>
+<section>
+    <h2>Modal connexion</h2>
+    <img data-src="{{ 'images/visuel.png' | relative_url }}">
+</section>
+
+<section>
+    <img height= "750" data-src="{{ 'images/modal.png' | relative_url }}">
+</section>
+
+<section>
+    <h2>Modal connexion</h2>
+    <img data-src="{{ 'images/scriptModal.png' | relative_url }}">
+</section>
+</section>
+
+<section>
+    <section>
+        <h2>Script de tri</h2>
+        <img data-src="{{ 'images/triHtml.png' | relative_url }}">
+    </section>
+    <section>
+        <h2>Script de tri</h2>
+        <img height = "600" data-src="{{ 'images/triphp.png' | relative_url }}">
+    </section>
+</section>
+
+<section>
+    <section> 
+        <h2>BDD</h2>
+        <img data-src="{{ 'images/table.jpg' | relative_url }}">
+    </section>
+    <section> 
+        <h2>BDD</h2>
+        <img data-src="{{ 'images/collaborateur.jpg' | relative_url }}">
+    </section>
+    <section> 
+        <h2>BDD</h2>
+        <img data-src="{{ 'images/client.jpg' | relative_url }}">
+    </section>
+</section>
+
+<section>
+    <section>
+        <h2>Création</h2>
+        <img data-src="{{ 'images/creation1.png' | relative_url }}">
+    </section>
+    <section>
+        <h2>Création</h2>
+        <img height="600" data-src="{{ 'images/creation2.png' | relative_url }}">
+    </section>
+    <section>
+        <h2>Création</h2>
+        <img data-src="{{ 'images/creation3.png' | relative_url }}">
+    </section>
+</section>
+
+<section>
+    <section>
+        <h2>Modifier</h2>
+        <img height="600" data-src="{{ 'images/modifier1.png' | relative_url }}">
+    </section>
+    <section>
+        <h2>Modifier</h2>
+        <img height="600" data-src="{{ 'images/modifier2.png' | relative_url }}">
+    </section>
+</section>
+
+<section>
+    <section>
+        <h2>Supprimer</h2>
+        <img data-src="{{ 'images/supprimer1_.png' | relative_url }}">
+    </section>
+    <section>
+        <h2>Supprimer</h2>
+        <img data-src="{{ 'images/supprimer2_.png' | relative_url }}">
+    </section>
+    <section>
+        <h2>Supprimer</h2>
+        <img data-src="{{ 'images/supprimer3_.png' | relative_url }}">
+    </section>
+</section>
+
+<section>
+    <section>
+        <h2>Barre de recherche</h2>
+        <img data-src="{{ 'images/recherche1.png' | relative_url }}">
+    </section>
+    <section>
+        <h2>Barre de recherche</h2>
+        <img data-src="{{ 'images/recherche2.png' | relative_url }}">
+    </section>
+</section>
+
+<section>
+    <section>
+        <h2>AJAX connexion</h2>
+    </section>
+    <section>
+        <img height="750" data-src="{{ 'images/ajaxconnexion1.png' | relative_url }}">
+    </section>
+    <section>
+        <img height="750" data-src="{{ 'images/ajaxconnexion2.png' | relative_url }}">
+    </section>
+</section>
+<section>
+    <section>
+        <h2>AJAX document</h2>
+    </section>
+    <section>
+        <img height="750" data-src="{{ 'images/ajaxdocument.png' | relative_url }}">
+    </section>
+</section>
+<section>
+    <h2>MERCI !!!</h2>
+</section>
